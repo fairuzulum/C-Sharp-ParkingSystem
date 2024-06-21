@@ -1,0 +1,14 @@
+C:\fairuz\UpSkilling\C#\parking\parking\parking\bin\Debug\net8.0\parking.exe
+C:\fairuz\UpSkilling\C#\parking\parking\parking\bin\Debug\net8.0\parking.deps.json
+C:\fairuz\UpSkilling\C#\parking\parking\parking\bin\Debug\net8.0\parking.runtimeconfig.json
+C:\fairuz\UpSkilling\C#\parking\parking\parking\bin\Debug\net8.0\parking.dll
+C:\fairuz\UpSkilling\C#\parking\parking\parking\bin\Debug\net8.0\parking.pdb
+C:\fairuz\UpSkilling\C#\parking\parking\parking\obj\Debug\net8.0\parking.GeneratedMSBuildEditorConfig.editorconfig
+C:\fairuz\UpSkilling\C#\parking\parking\parking\obj\Debug\net8.0\parking.AssemblyInfoInputs.cache
+C:\fairuz\UpSkilling\C#\parking\parking\parking\obj\Debug\net8.0\parking.AssemblyInfo.cs
+C:\fairuz\UpSkilling\C#\parking\parking\parking\obj\Debug\net8.0\parking.csproj.CoreCompileInputs.cache
+C:\fairuz\UpSkilling\C#\parking\parking\parking\obj\Debug\net8.0\parking.dll
+C:\fairuz\UpSkilling\C#\parking\parking\parking\obj\Debug\net8.0\refint\parking.dll
+C:\fairuz\UpSkilling\C#\parking\parking\parking\obj\Debug\net8.0\parking.pdb
+C:\fairuz\UpSkilling\C#\parking\parking\parking\obj\Debug\net8.0\parking.genruntimeconfig.cache
+C:\fairuz\UpSkilling\C#\parking\parking\parking\obj\Debug\net8.0\ref\parking.dll
